@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T04:53:57.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="xnORn7tmdxkcQ5ip20_v" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T04:57:38.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="h8cohMgQ3UYXgKfr75xR" version="14.7.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,11 +71,11 @@
           <mxGeometry x="220" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rBAEiwgbKmZqc0lVwh0l-15" value="Do they want to enroll?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="315" width="110" height="90" as="geometry" />
+          <mxGeometry x="160" y="315" width="110" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="rBAEiwgbKmZqc0lVwh0l-17" value="yes" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rBAEiwgbKmZqc0lVwh0l-15">
+        <mxCell id="rBAEiwgbKmZqc0lVwh0l-17" value="yes" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-0.3333" y="10" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="359.5" as="sourcePoint" />
+            <mxPoint x="270" y="360" as="sourcePoint" />
             <mxPoint x="300" y="360" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
@@ -102,23 +102,21 @@
         <mxCell id="rBAEiwgbKmZqc0lVwh0l-21" value="Email team@practicemakesperfect.com" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="335" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rBAEiwgbKmZqc0lVwh0l-25" value="yes" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rBAEiwgbKmZqc0lVwh0l-15" target="rBAEiwgbKmZqc0lVwh0l-28">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="400" as="sourcePoint" />
-            <mxPoint x="215" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="215" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rBAEiwgbKmZqc0lVwh0l-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rBAEiwgbKmZqc0lVwh0l-21" target="rBAEiwgbKmZqc0lVwh0l-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rBAEiwgbKmZqc0lVwh0l-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rBAEiwgbKmZqc0lVwh0l-21" target="rBAEiwgbKmZqc0lVwh0l-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rBAEiwgbKmZqc0lVwh0l-28" value="They ask to be sent the form electronically" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="440" width="90" height="60" as="geometry" />
+        <mxCell id="rBAEiwgbKmZqc0lVwh0l-29" value="yes but later" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="rBAEiwgbKmZqc0lVwh0l-30">
+          <mxGeometry x="-0.4286" y="6" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214.5" y="400" as="sourcePoint" />
+            <mxPoint x="215" y="450" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBAEiwgbKmZqc0lVwh0l-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="155" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
