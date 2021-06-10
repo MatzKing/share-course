@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T15:00:53.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="oqNxBZFkW5N363cVvpCY" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T15:01:54.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="DXVoJC1w_CMlMHXsOQDq" version="14.7.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,11 +96,14 @@
         <mxCell id="rBAEiwgbKmZqc0lVwh0l-21" value="Tell parents they can email&lt;br&gt;&amp;nbsp;team@practicemakesperfect.com&lt;br&gt;if they have any questions&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="335" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rBAEiwgbKmZqc0lVwh0l-29" value="Yes but later" style="endArrow=classic;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="rBAEiwgbKmZqc0lVwh0l-30" edge="1">
-          <mxGeometry x="-0.4286" y="6" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="rBAEiwgbKmZqc0lVwh0l-29" value="Yes but later" style="endArrow=classic;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="rBAEiwgbKmZqc0lVwh0l-30" edge="1">
+          <mxGeometry x="-0.4672" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="214.5" y="400" as="sourcePoint" />
             <mxPoint x="215" y="450" as="targetPoint" />
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="215" y="440" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rBAEiwgbKmZqc0lVwh0l-30" value="Inform parents filling out the form over the phone will be a short process&amp;nbsp;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
