@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T13:43:40.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="fiaRofuv7KXA6fx3dy7I" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T13:55:11.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="9pWX2LfJ1bHAVZu_YRD3" version="14.7.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,6 +29,14 @@
             <Array as="points">
               <mxPoint x="330" y="120" />
               <mxPoint x="390" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1XXpo8e81PG24megDqNf-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rBAEiwgbKmZqc0lVwh0l-4" target="rBAEiwgbKmZqc0lVwh0l-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="120" />
+              <mxPoint x="620" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -82,17 +90,11 @@
         <mxCell id="rBAEiwgbKmZqc0lVwh0l-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rBAEiwgbKmZqc0lVwh0l-19" target="rBAEiwgbKmZqc0lVwh0l-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rBAEiwgbKmZqc0lVwh0l-19" value="1. Inform parents they will receive confirmation email&lt;br&gt;2. Set up google notification" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="rBAEiwgbKmZqc0lVwh0l-19" value="1. Inform parents they will receive confirmation email" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="330" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rBAEiwgbKmZqc0lVwh0l-21" value="Parents can email team@practicemakesperfect.com&lt;br&gt;if they have any questions&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="rBAEiwgbKmZqc0lVwh0l-21" value="Tell parents they can email&lt;br&gt;&amp;nbsp;team@practicemakesperfect.com&lt;br&gt;if they have any questions&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="335" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rBAEiwgbKmZqc0lVwh0l-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rBAEiwgbKmZqc0lVwh0l-21" target="rBAEiwgbKmZqc0lVwh0l-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rBAEiwgbKmZqc0lVwh0l-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rBAEiwgbKmZqc0lVwh0l-21" target="rBAEiwgbKmZqc0lVwh0l-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rBAEiwgbKmZqc0lVwh0l-29" value="Yes but later" style="endArrow=classic;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="rBAEiwgbKmZqc0lVwh0l-30" edge="1">
           <mxGeometry x="-0.4286" y="6" width="50" height="50" relative="1" as="geometry">
@@ -100,9 +102,6 @@
             <mxPoint x="215" y="450" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="rBAEiwgbKmZqc0lVwh0l-32" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rBAEiwgbKmZqc0lVwh0l-30" target="rBAEiwgbKmZqc0lVwh0l-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rBAEiwgbKmZqc0lVwh0l-30" value="Inform parents filling out the form over the phone will be a short process&amp;nbsp;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="445" width="120" height="70" as="geometry" />
@@ -119,22 +118,27 @@
         <mxCell id="rBAEiwgbKmZqc0lVwh0l-33" value="Make note on the enrollment status of the tracking document&lt;br&gt;&quot;&lt;b&gt;Link sent&lt;/b&gt;&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="442.5" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="rBAEiwgbKmZqc0lVwh0l-40" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rBAEiwgbKmZqc0lVwh0l-35" target="rBAEiwgbKmZqc0lVwh0l-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rBAEiwgbKmZqc0lVwh0l-40" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="rBAEiwgbKmZqc0lVwh0l-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="490" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="875" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rBAEiwgbKmZqc0lVwh0l-41" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rBAEiwgbKmZqc0lVwh0l-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rBAEiwgbKmZqc0lVwh0l-35" value="Check if families with &quot;&lt;b&gt;Link sent&lt;/b&gt;&quot; have completed the form" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="rBAEiwgbKmZqc0lVwh0l-35" value="Check if families with &quot;&lt;b&gt;Link sent&lt;/b&gt;&quot; have completed the form. on google form response sheet" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rBAEiwgbKmZqc0lVwh0l-39" value="Change enrollment status to complete&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="750" y="450" width="70" height="60" as="geometry" />
+          <mxGeometry x="960" y="460" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rBAEiwgbKmZqc0lVwh0l-42" value="Call the family again. Stop at 2 attempts" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="620" y="550" width="80" height="60" as="geometry" />
+          <mxGeometry x="620" y="555" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rBAEiwgbKmZqc0lVwh0l-43" value="Note on the enrollment status of the of the tracking document &quot;&lt;b&gt;Denied&lt;/b&gt;&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="640" width="120" height="60" as="geometry" />
@@ -181,6 +185,12 @@
               <mxPoint x="560" y="205" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1XXpo8e81PG24megDqNf-2" value="Do they want to do it themselves?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="540" width="110" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="1XXpo8e81PG24megDqNf-3" value="did the family complete the sheet?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="775" y="455" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
