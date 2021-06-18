@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T00:09:14.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="Caq-Qii9OF1jZTlMFVtA" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T00:13:34.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="SyM9mgs5GNKaG3qiENed" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,27 @@
             <mxPoint x="232" y="410" as="sourcePoint" />
             <mxPoint x="232" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ee54h3uQbGCcNJJHcLfp-10" value="Does the proposed time work for the panel?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="187.5" y="470" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ee54h3uQbGCcNJJHcLfp-11" value="No" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277.5" y="524.5" as="sourcePoint" />
+            <mxPoint x="390" y="524.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ee54h3uQbGCcNJJHcLfp-12" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="232" y="580" as="sourcePoint" />
+            <mxPoint x="232" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ee54h3uQbGCcNJJHcLfp-13" value="Schedule the meeting on google meets.&lt;br&gt;Forward candidate resume and cover letter to the panel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="172.5" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ee54h3uQbGCcNJJHcLfp-14" value="Propose alternative time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="495" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
