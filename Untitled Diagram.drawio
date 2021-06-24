@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T19:17:03.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="4CvFXt_nOG7Im0x5qXNn" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T19:20:25.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="2laaJvDDmw--UMsgcjSV" version="14.8.0" type="github">
   <diagram id="pUHKSoeqSPnH9aFKWTla" name="Page-1">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -142,12 +142,12 @@
         </mxCell>
         <mxCell id="HmO050Vw17ycaXZfuZyL-32" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="470" as="sourcePoint" />
-            <mxPoint x="490" y="470" as="targetPoint" />
+            <mxPoint x="260" y="464.5" as="sourcePoint" />
+            <mxPoint x="310" y="464.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HmO050Vw17ycaXZfuZyL-33" value="Training Program&lt;br&gt;Admin. checks if the applicant has completed trainual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="435" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HmO050Vw17ycaXZfuZyL-34" value="Applicant completes the fingerprinting process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="360" width="120" height="60" as="geometry" />
@@ -178,6 +178,30 @@
         </mxCell>
         <mxCell id="HmO050Vw17ycaXZfuZyL-41" value="At the end of every month Training Program Admin. audits PETs clearance list vs WIW and Gusto and if not cleared tags Prog Ops Admin and Finance to eliminate from WIW and Gusto" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="755" y="620" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-44" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="470" as="sourcePoint" />
+            <mxPoint x="480" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-45" value="Did the &lt;br&gt;employee &lt;br&gt;complete &lt;br&gt;trainual?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="425" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-46" value="No" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HmO050Vw17ycaXZfuZyL-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="550" as="sourcePoint" />
+            <mxPoint x="535" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-47" value="Yes" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HmO050Vw17ycaXZfuZyL-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="550" as="sourcePoint" />
+            <mxPoint x="630" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-48" value="Training Program Admin. sets up training, sends meeting invite to Trainer, trainee and (set-up conf room and arrange building access&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="400" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
