@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T19:02:28.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="BrXizu7o2QCl03M-sYg8" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T19:09:29.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="wwJnOZ3Lpr-7cM9010w5" version="14.8.0" type="github">
   <diagram id="pUHKSoeqSPnH9aFKWTla" name="Page-1">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HmO050Vw17ycaXZfuZyL-13" value="Placement coordinator communicates to the HR Admin support that the applicant was places and the HR Admin support sends the offer letter via Docusign with Start and End Dates, and onboarding form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="10" width="110" height="190" as="geometry" />
+          <mxGeometry x="480" y="10" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="HmO050Vw17ycaXZfuZyL-14" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="HmO050Vw17ycaXZfuZyL-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -96,6 +96,49 @@
         </mxCell>
         <mxCell id="HmO050Vw17ycaXZfuZyL-21" value="People Dir initiates PETs process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-22" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HmO050Vw17ycaXZfuZyL-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="310" as="sourcePoint" />
+            <mxPoint x="860" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-23" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HmO050Vw17ycaXZfuZyL-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="310" as="sourcePoint" />
+            <mxPoint x="750" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-24" value="Is the &lt;br&gt;candidate an Interventionists Supervisor?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-28" value="Yes" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HmO050Vw17ycaXZfuZyL-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="300" as="sourcePoint" />
+            <mxPoint x="600" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-29" value="People Director&lt;br&gt;sends an Asana&lt;br&gt;task to&amp;nbsp;&lt;br&gt;Interventionists&amp;nbsp;&lt;br&gt;Admin to complete&lt;br&gt;Supervisor 30mins&amp;nbsp;&lt;br&gt;training on Day 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="235" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-30" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HmO050Vw17ycaXZfuZyL-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="330" as="sourcePoint" />
+            <mxPoint x="380" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="695" y="380" />
+              <mxPoint x="380" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-31" value="The People Dir. sends Asana task to Finance, Training and Sales Admin. (and cc Interventionists Admin.) to create the placement schedule and to add the applicant in WIW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-32" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="470" as="sourcePoint" />
+            <mxPoint x="490" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
