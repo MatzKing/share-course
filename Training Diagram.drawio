@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T23:38:43.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="XHUbhsGBlOkF-9d3yG5E" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T23:40:55.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="aJpdr7_idiiQsikND0-h" version="14.8.0" type="github">
   <diagram id="scpoPnvaWyOqKvB3ZE4O" name="Page-1">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -380,11 +380,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HFFMxbHn-NCCCKejfwAk-90" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HFFMxbHn-NCCCKejfwAk-90" value="Trainual&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1060" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HFFMxbHn-NCCCKejfwAk-91" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HFFMxbHn-NCCCKejfwAk-91" value="Scenarios Quiz" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HFFMxbHn-NCCCKejfwAk-92" value="General Knowledge Quiz" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HFFMxbHn-NCCCKejfwAk-93" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HFFMxbHn-NCCCKejfwAk-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1125" as="sourcePoint" />
+            <mxPoint x="490" y="1085" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFFMxbHn-NCCCKejfwAk-94" value="Training Outline" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HFFMxbHn-NCCCKejfwAk-1" target="HFFMxbHn-NCCCKejfwAk-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="160" as="sourcePoint" />
+            <mxPoint x="140" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
