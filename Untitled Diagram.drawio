@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T19:12:18.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Yw62HnPYFAMt9fD7ZFQ4" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T19:14:27.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="qI--MQCpRj7B8820_3K_" version="14.8.0" type="github">
   <diagram id="pUHKSoeqSPnH9aFKWTla" name="Page-1">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -163,6 +163,15 @@
         </mxCell>
         <mxCell id="HmO050Vw17ycaXZfuZyL-38" value="Put employee in &quot;PETS cleared&quot;&lt;br&gt;status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-40" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HmO050Vw17ycaXZfuZyL-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="670" as="sourcePoint" />
+            <mxPoint x="860" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-41" value="At the end of every month Training Program Admin. audits PETs clearance list vs WIW and Gusto and if not cleared tags Prog Ops Admin and Finance to eliminate from WIW and Gusto" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="620" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
