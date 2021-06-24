@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T19:00:17.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="0-wbz_a-CHnHGRVTYGq9" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T19:02:28.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="BrXizu7o2QCl03M-sYg8" version="14.8.0" type="github">
   <diagram id="pUHKSoeqSPnH9aFKWTla" name="Page-1">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -77,6 +77,25 @@
         </mxCell>
         <mxCell id="HmO050Vw17ycaXZfuZyL-17" value="Placement coordinator sets up interventionist on Slack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HmO050Vw17ycaXZfuZyL-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="130" as="sourcePoint" />
+            <mxPoint x="860" y="160" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-19" value="The people Dir. tasks in Asana&lt;br&gt;Finance Dir to add applicant in Gusto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-20" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HmO050Vw17ycaXZfuZyL-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="320" as="sourcePoint" />
+            <mxPoint x="860" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-21" value="People Dir initiates PETs process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
