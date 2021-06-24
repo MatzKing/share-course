@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T18:50:58.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="05xFEuIeK499EeNlOxWm" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T19:00:17.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="0-wbz_a-CHnHGRVTYGq9" version="14.8.0" type="github">
   <diagram id="pUHKSoeqSPnH9aFKWTla" name="Page-1">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,12 +25,12 @@
         <mxCell id="HmO050Vw17ycaXZfuZyL-6" value="Is a &lt;br&gt;candidate &lt;br&gt;in waiting room available?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="160" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="HmO050Vw17ycaXZfuZyL-7" value="Yes" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HmO050Vw17ycaXZfuZyL-6">
+        <mxCell id="HmO050Vw17ycaXZfuZyL-7" value="Yes" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.572;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HmO050Vw17ycaXZfuZyL-6" target="HmO050Vw17ycaXZfuZyL-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="210" as="sourcePoint" />
             <mxPoint x="370" y="215" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="215" />
+              <mxPoint x="389" y="215" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -45,8 +45,38 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HmO050Vw17ycaXZfuZyL-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="HmO050Vw17ycaXZfuZyL-10" value="Check new applications" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="35" y="180" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-11" value="Placement coordinator contacts the applicants to determine who &quot;fit&quot;&lt;br&gt;the availability and puts the others in the queue in the event of a last minute drop out (and updates the application form and profile in Trello if needed)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-12" value="" style="endArrow=classic;html=1;exitX=1.006;exitY=0.43;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HmO050Vw17ycaXZfuZyL-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="70" as="sourcePoint" />
+            <mxPoint x="480" y="87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-13" value="Placement coordinator communicates to the HR Admin support that the applicant was places and the HR Admin support sends the offer letter via Docusign with Start and End Dates, and onboarding form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="10" width="110" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-14" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="HmO050Vw17ycaXZfuZyL-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="90" as="sourcePoint" />
+            <mxPoint x="640" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-15" value="The applicant completes the Onboarding form if in person (and signs the contract)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="90" as="sourcePoint" />
+            <mxPoint x="800" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-17" value="Placement coordinator sets up interventionist on Slack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
