@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T23:16:01.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ups58ZMc--zXU6_2043o" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T23:20:07.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="6IqoWP6GyUyGzGwXzEAN" version="14.8.0" type="github">
   <diagram id="scpoPnvaWyOqKvB3ZE4O" name="Page-1">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -131,19 +131,19 @@
             <mxPoint x="440" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HFFMxbHn-NCCCKejfwAk-31" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="HFFMxbHn-NCCCKejfwAk-31" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HFFMxbHn-NCCCKejfwAk-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="510" as="sourcePoint" />
             <mxPoint x="480" y="640" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="640" />
+              <mxPoint x="440" y="605" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HFFMxbHn-NCCCKejfwAk-32" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="560" as="sourcePoint" />
-            <mxPoint x="480" y="560" as="targetPoint" />
+            <mxPoint x="440" y="559" as="sourcePoint" />
+            <mxPoint x="480" y="559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HFFMxbHn-NCCCKejfwAk-33" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -155,14 +155,23 @@
         <mxCell id="HFFMxbHn-NCCCKejfwAk-34" value="Value Based Company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="420" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HFFMxbHn-NCCCKejfwAk-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HFFMxbHn-NCCCKejfwAk-35" value="Ways to stay professional&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="460" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HFFMxbHn-NCCCKejfwAk-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="550" width="120" height="30" as="geometry" />
+        <mxCell id="HFFMxbHn-NCCCKejfwAk-36" value="Attendance Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HFFMxbHn-NCCCKejfwAk-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="620" width="120" height="30" as="geometry" />
+        <mxCell id="HFFMxbHn-NCCCKejfwAk-37" value="Standards of Conduct" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="590" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HFFMxbHn-NCCCKejfwAk-41" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="520" as="sourcePoint" />
+            <mxPoint x="480" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFFMxbHn-NCCCKejfwAk-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="500" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
