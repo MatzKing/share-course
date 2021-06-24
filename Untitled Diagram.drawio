@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T04:39:09.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="_VElpOH3fNVqW_Xz4IY6" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T18:49:06.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Uu8BBFIwJmWO66gkWZNi" version="14.8.0" type="github">
   <diagram id="pUHKSoeqSPnH9aFKWTla" name="Page-1">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,8 +22,17 @@
             <mxPoint x="230" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HmO050Vw17ycaXZfuZyL-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="160" width="90" height="100" as="geometry" />
+        <mxCell id="HmO050Vw17ycaXZfuZyL-6" value="Is a candidate &lt;br&gt;in waiting room available?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="160" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HmO050Vw17ycaXZfuZyL-7" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="210" as="sourcePoint" />
+            <mxPoint x="450" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
