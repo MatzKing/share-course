@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T02:48:21.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="94PK0R7tBlHUFTgXMOzh" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T02:56:33.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="GJ6hjYxLUOPQHrXGa7Us" version="14.8.0" type="github">
   <diagram id="_Bjo2RuSlvbvis-8lS-w" name="Page-1">
-    <mxGraphModel dx="385" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,29 @@
         </mxCell>
         <mxCell id="tQFtSfscerkMX41_XjKn-7" value="Prog. Ops. Admin&lt;br&gt;reviews the&lt;br&gt;Candidate Application form and identities candidate to move forward with" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tQFtSfscerkMX41_XjKn-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tQFtSfscerkMX41_XjKn-7" target="tQFtSfscerkMX41_XjKn-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="200" as="sourcePoint" />
+            <mxPoint x="150" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="705" y="160" />
+              <mxPoint x="340" y="160" />
+              <mxPoint x="265" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tQFtSfscerkMX41_XjKn-10" value="Prog. Ops Admin.&lt;br&gt;contacts (email) applicant to find&lt;br&gt;available time for&amp;nbsp;&lt;br&gt;interview&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204.5" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tQFtSfscerkMX41_XjKn-14" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="324.5" y="240" as="sourcePoint" />
+            <mxPoint x="390" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tQFtSfscerkMX41_XjKn-15" value="Prog. Ops. Admin sets up interview, sends meeting invite to&lt;br&gt;interviews and interviewees, (sets-up cont room and arrange building pass if needed or set up google meet-up if virtual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="180" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
