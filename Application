@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T03:06:17.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="KlOFBxTWBrJJP3DZ-GnI" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T03:09:48.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="aDYrUtST-0-5-hsPDs1G" version="14.8.0" type="github">
   <diagram id="_Bjo2RuSlvbvis-8lS-w" name="Page-1">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
             <mxPoint x="390" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tQFtSfscerkMX41_XjKn-15" value="Prog. Ops. Admin sets up interview, sends meeting invite to&lt;br&gt;interviews and interviewees, (sets-up conference room and arrange building pass if needed or set up google meet-up if virtual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQFtSfscerkMX41_XjKn-15" value="Prog. Ops. Admin sets up interview, sends meeting invite to&lt;br&gt;interviews and interviewees,&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="180" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tQFtSfscerkMX41_XjKn-16" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="tQFtSfscerkMX41_XjKn-17">
@@ -63,7 +63,7 @@
             <mxPoint x="480" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tQFtSfscerkMX41_XjKn-17" value="Is the interview in person or virtual ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQFtSfscerkMX41_XjKn-17" value="Is the interview&lt;br&gt;virtual?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="350" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tQFtSfscerkMX41_XjKn-18" value="No" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tQFtSfscerkMX41_XjKn-17">
@@ -77,6 +77,12 @@
             <mxPoint x="410" y="430" as="sourcePoint" />
             <mxPoint x="360" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tQFtSfscerkMX41_XjKn-20" value="&lt;span&gt;Set-up conference room and arrange building pass if needed&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="370" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tQFtSfscerkMX41_XjKn-21" value="&lt;span&gt;Set up google meet-up if virtual&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
