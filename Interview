@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T01:39:15.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="UVPB6GCUTqRi5JwrX-F2" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T01:40:20.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="I7o28ccWrNZkNunILB-H" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2143" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o9SvJdMiYEzprDwzJ3J--40" value="Applicant can stay in the waiting room for a max of 1 month before being reevaluated for updated availability:&amp;nbsp;&lt;br&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;-identify other opportunities(i.e Office Support)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;-Turndown candidate&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;-Archive in Trainual&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="750" y="220" width="278" height="120" as="geometry" />
+          <mxGeometry x="750" y="230" width="278" height="100" as="geometry" />
         </mxCell>
         <mxCell id="o9SvJdMiYEzprDwzJ3J--41" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="o9SvJdMiYEzprDwzJ3J--40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
