@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T18:32:49.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="lxQlA2LP1H5GZDhizRsM" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T00:28:43.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="XCX_TMpCKab4icK3fkID" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2143" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,8 +80,8 @@
         <mxCell id="o9SvJdMiYEzprDwzJ3J--22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="o9SvJdMiYEzprDwzJ3J--16" target="o9SvJdMiYEzprDwzJ3J--19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9SvJdMiYEzprDwzJ3J--16" value="Program Ops. Admin confirms availability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="420" width="140" height="60" as="geometry" />
+        <mxCell id="o9SvJdMiYEzprDwzJ3J--16" value="Program Ops. Admin requests video/word file from candidate to detail why they must be chosen. (Incases of large candidate pool)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="400" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="o9SvJdMiYEzprDwzJ3J--17" value="" style="endArrow=classic;html=1;entryX=0.027;entryY=0.404;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="o9SvJdMiYEzprDwzJ3J--19" target="o9SvJdMiYEzprDwzJ3J--10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
