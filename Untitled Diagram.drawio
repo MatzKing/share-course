@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T01:54:47.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="RuTFUfviVIqXAm8jJvRO" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T01:57:42.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="a6_Z3Hi3OhjyG0IsWRsy" version="14.8.0" type="github">
   <diagram id="pUHKSoeqSPnH9aFKWTla" name="Page-1">
     <mxGraphModel dx="1460" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,8 +118,8 @@
             <mxPoint x="600" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HmO050Vw17ycaXZfuZyL-29" value="People Director&lt;br&gt;sends an Asana&lt;br&gt;task to&amp;nbsp;&lt;br&gt;Interventionists&amp;nbsp;&lt;br&gt;Admin to complete&lt;br&gt;Supervisor 30mins&amp;nbsp;&lt;br&gt;training on Day 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="235" width="120" height="110" as="geometry" />
+        <mxCell id="HmO050Vw17ycaXZfuZyL-29" value="People Director&lt;br&gt;sends an Asana&lt;br&gt;task to&amp;nbsp;&lt;br&gt;Interventionists&amp;nbsp;&lt;br&gt;Admin to complete&lt;br&gt;Supervisor 30mins&amp;nbsp;&lt;br&gt;training on Day 1&lt;br&gt;&lt;br&gt;&lt;b&gt;Check Note 3&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="120" height="125" as="geometry" />
         </mxCell>
         <mxCell id="HmO050Vw17ycaXZfuZyL-30" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmO050Vw17ycaXZfuZyL-24" target="HmO050Vw17ycaXZfuZyL-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
