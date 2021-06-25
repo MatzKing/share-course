@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T00:22:48.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="uhuNfVknb-SXxc3gwi7y" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T00:23:16.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="rJlWaG4lFw7FolA26Qrg" version="14.8.0" type="github">
   <diagram id="_Bjo2RuSlvbvis-8lS-w" name="Page-1">
     <mxGraphModel dx="1167" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
             <mxPoint x="170" y="79.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tQFtSfscerkMX41_XjKn-3" value="People Director (or Program Ops. Admin.) posts, email, blasts jobs posting (job@practicemakesperfect.org)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQFtSfscerkMX41_XjKn-3" value="People Director (or Program Ops. Admin.) posts, email, blasts jobs posting using (job@practicemakesperfect.org)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="169" y="40" width="191" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tQFtSfscerkMX41_XjKn-4" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="tQFtSfscerkMX41_XjKn-5">
