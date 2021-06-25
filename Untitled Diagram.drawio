@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T02:00:05.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="cSoszWgna9v3r43JMCyh" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T02:00:39.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="BC5uS1_foGzpt374UfWd" version="14.8.0" type="github">
   <diagram id="pUHKSoeqSPnH9aFKWTla" name="Page-1">
     <mxGraphModel dx="1460" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HmO050Vw17ycaXZfuZyL-19" value="The people Dir. tasks in Asana&lt;br&gt;Finance Dir to add applicant in Gusto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HmO050Vw17ycaXZfuZyL-19" value="The people Dir. sets tasks in Asana&lt;br&gt;Finance Dir to add applicant in Gusto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HmO050Vw17ycaXZfuZyL-20" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HmO050Vw17ycaXZfuZyL-19">
